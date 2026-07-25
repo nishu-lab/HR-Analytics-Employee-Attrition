@@ -1,20 +1,20 @@
 
 Project  : HR Analytics - Employee Attrition 
-File     : 01_Database_Setup.sql
 Author   : Nishu Gupta
 Database : HR_analytics
 Purpose  : Creates the HR employee table used for SQL analysis and Power BI dashboard reporting.
 
+1. Database_Setup
 
-Dataset Import
+★ Dataset Import
 The HR employee dataset is imported into the hr_data table using the pgAdmin Import/Export Data tool after the table structure is created.
 
 
-Current Database
+★ Current Database
 
 SELECT current_database();
 
-HR Employee Table
+★ HR Employee Table
 
 CREATE TABLE hr_data (
 
@@ -62,7 +62,7 @@ CREATE TABLE hr_data (
 
 );
 
-Table Verification
+★ Table Verification
 
 SELECT * FROM hr_data;
 
