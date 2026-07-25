@@ -1,4 +1,13 @@
 # HR Analytics – Employee Attrition
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 ## Project Overview
 
 Employee attrition is one of the most important workforce metrics because it directly impacts recruitment costs, productivity, and employee retention. This project analyzes HR employee data to identify attrition patterns across departments, age groups, education fields, job roles, and employee demographics.
