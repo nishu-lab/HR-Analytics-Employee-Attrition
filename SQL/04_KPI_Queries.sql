@@ -1,8 +1,7 @@
 -- ==========================================================
 -- Project  : HR Analytics - Employee Attrition 
 -- File     : 04_KPI_Queries.sql
--- Purpose  : Calculates the key performance indicators (KPIs)
---            used in the HR Analytics dashboard.
+-- Purpose  : Calculates the key performance indicators (KPIs) used in the HR Analytics dashboard.
 -- ==========================================================
 
 

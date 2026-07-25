@@ -1,9 +1,7 @@
 -- ==========================================================
 -- Project  : HR Analytics - Employee Attrition 
 -- File     : 05_Business_Analysis.sql
--- Purpose  : Analyzes employee attrition patterns across
---            departments, demographics, education, and job
---            satisfaction to identify key workforce trends.
+-- Purpose  : Analyzes employee attrition patterns across departments, demographics, education, and job satisfaction to identify key workforce trends.
 -- ==========================================================
 
 

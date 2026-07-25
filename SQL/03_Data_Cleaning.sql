@@ -2,17 +2,13 @@
 -- Project  : HR Analytics - Employee Attrition
 -- File     : 03_Data_Cleaning.sql
 -- Author   : Nishu Gupta
--- Purpose  : Documents the data cleaning process performed
---            on the HR dataset prior to business analysis.
+-- Purpose  : Documents the data cleaning process performed on the HR dataset prior to business analysis.
 -- ==========================================================
 
 
 -- Data Cleaning Status
 
--- Data validation confirmed that the HR dataset contains
--- no duplicate Employee Numbers and no missing Employee
--- Number values. As a result, the original dataset was
--- retained without any modification.
+-- Data validation confirmed that the HR dataset contains no duplicate Employee Numbers and no missing Employee Number values. As a result, the original dataset was retained without any modification.
 
 
 -- Employee Number Uniqueness

@@ -1,9 +1,7 @@
 -- ==========================================================
 -- Project     : HR Analytics - Employee Attrition 
 -- File        : 06_Dashboard_Validation.sql
--- Description : SQL validation queries used to verify that
---               Power BI dashboard visuals display accurate
---               results from the HR dataset.
+-- Description : SQL validation queries used to verify that Power BI dashboard visuals display accurate results from the HR dataset.
 -- ==========================================================
 
 

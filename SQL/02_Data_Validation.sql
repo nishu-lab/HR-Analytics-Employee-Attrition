@@ -1,29 +1,32 @@
+-- ==========================================================
+-- Project  : HR Analytics - Employee Attrition 
+-- File     : 02_Data_Validation.sql
+-- Purpose  : Validates the imported HR dataset by checking record completeness, table structure, unique identifiers and categorical field values before performing analysis.
+-- ==========================================================
 
-Project  : HR Analytics - Employee Attrition 
 
-2. Data Validation
-
-Purpose  : Performs data validation checks to ensure the HR dataset is complete, accurate, and consistent before KPI generation and business analysis.
-
-★ Dataset Records
+-- Dataset Records
 
 SELECT
     COUNT(*) AS total_records
 FROM hr_data;
 
-Validation:
-Confirms that all employee records are available for analysis.
+-- Validation:
+-- Confirms that all employee records are available
+-- for analysis.
 
 
-★ Table Structure
+
+-- Table Structure
 
 SELECT
     COUNT(*) AS total_columns
 FROM information_schema.columns
 WHERE table_name = 'hr_data';
 
-Validation:
-Confirms that the table structure matches the original HR dataset.
+-- Validation:
+-- Confirms that the table structure matches
+-- the original HR dataset.
 
 
 
