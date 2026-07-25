@@ -2,6 +2,8 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+![Dashboard](Dashboard/Dashboard.png)
+
 ## Project Overview
 
 Employee attrition is one of the most important workforce metrics because it directly impacts recruitment costs, productivity, and employee retention. This project analyzes HR employee data to identify attrition patterns across departments, age groups, education fields, job roles, and employee demographics.
@@ -10,7 +12,7 @@ The project combines **PostgreSQL** for data validation and business analysis wi
 
 ---
 
-# Business Problem
+## Business Problem
 
 Organizations often struggle to understand why employees leave and which workforce segments are more likely to experience attrition.
 
@@ -24,7 +26,7 @@ This project answers important business questions such as:
 
 ---
 
-# Dataset Information
+## Dataset Information
 
 | Attribute | Details |
 |------------|---------|
@@ -36,7 +38,7 @@ This project answers important business questions such as:
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
 
 - PostgreSQL
 - Power BI Desktop
@@ -46,7 +48,7 @@ This project answers important business questions such as:
 
 ---
 
-# Project Workflow
+## Project Workflow
 
 ```
 Dataset
@@ -68,7 +70,7 @@ Dashboard Validation
 
 ---
 
-# SQL Modules
+## SQL Modules
 
 The SQL implementation is organized into six phases.
 
@@ -118,7 +120,7 @@ Validated all Power BI dashboard visuals using SQL queries to ensure reporting a
 
 ---
 
-# Dashboard KPIs
+## Dashboard KPIs
 
 | KPI | Value |
 |------|-------|
@@ -130,7 +132,7 @@ Validated all Power BI dashboard visuals using SQL queries to ensure reporting a
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
 > Dashboard image is available in the **Dashboard/** folder.
 
@@ -141,7 +143,7 @@ Dashboard/
 
 ---
 
-# Key Business Insights
+## Key Business Insights
 
 - Research & Development recorded the highest employee attrition among all departments.
 - Employees aged **25–34 years** represent the largest workforce segment.
@@ -151,7 +153,7 @@ Dashboard/
 
 ---
 
-# Business Recommendations
+## Business Recommendations
 
 - Prioritize employee retention initiatives in departments with higher attrition.
 - Improve employee engagement programs for key workforce age groups.
@@ -160,7 +162,7 @@ Dashboard/
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 HR-Analytics-Employee-Attrition/
@@ -188,7 +190,7 @@ HR-Analytics-Employee-Attrition/
 
 ---
 
-# How to Run the Project
+## How to Run the Project
 
 ### PostgreSQL
 
@@ -205,16 +207,11 @@ HR-Analytics-Employee-Attrition/
 
 ---
 
-# Author
+## Author
 
 **Nishu Gupta**
 
 B.Tech Computer Science Engineering
 
-Aspiring Data Analyst | SQL | PostgreSQL | Power BI
+Aspiring Data Analyst | SQL | PostgreSQL | Power BI | Excel
 
----
-
-# License
-
-This project is created for educational and portfolio purposes.
